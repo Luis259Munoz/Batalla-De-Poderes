@@ -6,6 +6,12 @@ import Modelo.Carta;
 import Modelo.Jugador;
 import Modelo.MazoJugador;
 
+/*  
+ * Esteban Alexis Avirama Lopez -
+ *  Jean Sebastian Ceron Morales - Maykol Stiben Cordoba Tosse -
+ *  Luis Armando Munoz Tulcan - Santiago Valverde
+ */
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
